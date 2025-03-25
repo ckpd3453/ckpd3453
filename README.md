@@ -13,7 +13,7 @@
 ## 📫 Connect with Me  
 [![Gmail Badge](https://img.shields.io/badge/-chandrakantprasad68@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chandrakantpasad68@gmail.com)](mailto:chandrakantpasad68@gmail.com) 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ckpd3453/)](https://github.com/ckpd3453/)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/chandrakant-prasad-b952b01a3/)
 
 ---
 
